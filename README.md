@@ -1,2 +1,3 @@
 # HannahHound-Playground
 HannahHound is Learning About GitHub
+This is HannahHound's first time to play with GitHub so I am going to drive around and try different things to see if I can break anything....
